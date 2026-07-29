@@ -11,8 +11,6 @@ article{
     width: 350px;
     padding: 25px;
     border-radius: 7px;
-    display: flex;
-    justify-content: center;
 }
 
 img{
